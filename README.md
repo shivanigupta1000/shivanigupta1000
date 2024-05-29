@@ -4,7 +4,7 @@
 - 💞 currently exploring myself
 - 📫 How to reach me - shivanigupta.10000000@gmail.com
 - 😄 Pronouns: SHE,her
-- ⚡ Fun fact: -
+  
 
 <!---
 shivanigupta1000/shivanigupta1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
